@@ -1,4 +1,4 @@
-//https://leetcode.com/problems/two-sum/submissions/995231242/
+//https://leetcode.com/problems/two-sum/submissions/995233112/
 //Time: O(n^2) ; Space: O(1);
 
 /**
